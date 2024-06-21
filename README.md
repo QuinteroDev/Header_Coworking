@@ -1,1 +1,1 @@
-![Coworking Image](Header_Coworking/coworking/image.png)
+![Coworking Image](./coworking/image.png)
